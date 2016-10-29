@@ -1,3 +1,3 @@
 # hook
 hook_test
-test3
+test release
